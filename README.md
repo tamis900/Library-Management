@@ -82,7 +82,7 @@ olan tur_id alanını seçiniz.
 Yukarıdaki görselde göründüğü gibi projenin App.Config sayfasını açıp alttaki kodu kendi sunucunuza göre yazınız.
 ```
 <connectionStrings>
-	<add name="baglanticumlesi" connectionString="Server=;Database=kutuphane;Uid=;Pwd=;" />
+	<add name="baglanticumlesi" connectionString="Server=(sunucu adınız);Database=kutuphane;Uid=(kullanıcı);Pwd=(şifre);" />
 </connectionStrings>
 ```
 
