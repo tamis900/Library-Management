@@ -81,7 +81,8 @@ olan tur_id alanını seçiniz.
 
 ## Visual Studio CS Projesi Setup:
 
-#### -> Zip dosyasının içerisindeki .csproj dosyasını keni Visual Studio'nuza aktarınız.
+#### -> Proje dosyasının içerisindeki "setup" dosyasını çalıştırınız ve projeyi bilgisayarınıza yükleyiniz.
+#### -> Yüklenen projeyi Visual Studio'ya içe aktarınız.
 
 #### MySQL Server Bağlantısı:
 <img width="930" height="96" alt="image" src="https://github.com/user-attachments/assets/083b7aa2-259c-4688-bc0f-ebe6f947dd08" />
@@ -94,6 +95,27 @@ Yukarıdaki görselde göründüğü gibi projenin App.Config sayfasını açıp
 	<add name="baglanticumlesi" connectionString="Server=(sunucu adınız);Database=kutuphane;Uid=(kullanıcı);Pwd=(şifre);" />
 </connectionStrings>
 ```
+
+# Proje Görselleri:
+<img width="471" height="332" alt="image" src="https://github.com/user-attachments/assets/1dd108ac-b6a1-4100-a19b-e297828da94c" />
+
+
+
+<img width="630" height="566" alt="image" src="https://github.com/user-attachments/assets/26a50ee8-ff16-4044-8ccb-6fc96798c91a" />
+
+
+
+<img width="642" height="572" alt="image" src="https://github.com/user-attachments/assets/b1899e5f-58b0-4ec3-bf89-b3ef8b9eac23" />
+
+
+
+<img width="432" height="515" alt="image" src="https://github.com/user-attachments/assets/7aaa1366-2c34-46cf-9f8e-274a2b954e81" />
+
+
+
+
+<img width="757" height="572" alt="image" src="https://github.com/user-attachments/assets/1060fdfb-e089-420c-82fd-47f704bbc910" />
+
 
 
 
