@@ -1,1 +1,27 @@
+## Visual Studio Build Outputs
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.suo
+*.user
 
+## ClickOnce Publish Outputs (İsteğe bağlı - eğer yayın klasörünü gizlemek istersen)
+# app.publish/
+
+## Visual Studio Cache and Settings
+.vs/
+*.userprefs
+*.pidb
+*.vshost.exe
+*.vshost.exe.manifest
+*.docstates
+
+## Rider / Resharper / JetBrains IDEs
+.idea/
+*.sln.iml
+
+## Windows System Files
+Thumbs.db
+Desktop.ini
