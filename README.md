@@ -22,6 +22,9 @@ Bu proje; C#, veritabanı yönetimi, SQL ve masaüstü uygulama geliştirme konu
 
 
 # KULLANIM KLAVUZU:
+
+###	NOT: Setup'a başlanmadan önce .NET'in yüklü olduğundan emin olunuz.
+
 #### -> Kendi MySQL veritabanınızı oluşturun. İsmi "kutuphane" olsun.
 #### -> Tablolar kısmına "kitaplar", "kitap_turleri", "ogrenciler" ve "odunc_kitaplar" tablolarını ekleyiniz.
 
@@ -76,8 +79,14 @@ olan tur_id alanını seçiniz.
 
 #### -> Veri tabanına istediğiniz gibi veri girişi yapabilirsiniz.
 
-### MySQL Server Bağlantısı:
+## Visual Studio CS Projesi Setup:
+
+#### -> Zip dosyasının içerisindeki .csproj dosyasını keni Visual Studio'nuza aktarınız.
+
+#### MySQL Server Bağlantısı:
 <img width="930" height="96" alt="image" src="https://github.com/user-attachments/assets/083b7aa2-259c-4688-bc0f-ebe6f947dd08" />
+
+
 
 Yukarıdaki görselde göründüğü gibi projenin App.Config sayfasını açıp alttaki kodu kendi sunucunuza göre yazınız.
 ```
@@ -85,6 +94,8 @@ Yukarıdaki görselde göründüğü gibi projenin App.Config sayfasını açıp
 	<add name="baglanticumlesi" connectionString="Server=(sunucu adınız);Database=kutuphane;Uid=(kullanıcı);Pwd=(şifre);" />
 </connectionStrings>
 ```
+
+
 
 
 
