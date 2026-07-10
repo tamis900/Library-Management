@@ -1,20 +1,20 @@
-# Library Management System
+# Kütüphane Yönetim Paneli
 
-About:
-This project is a Library Management System developed using C# (.NET) and MySQL. It provides a simple and user-friendly interface for managing library operations.
+Hakkında:
+Bu proje, C# (.NET) ve MySQL kullanılarak geliştirilmiş bir Kütüphane Yönetim Sistemidir. Kütüphane işlemlerini yönetmek için basit ve kullanıcı dostu bir arayüz sunar.
 
-Features
--> Book management (Add, Update, Delete, Search)
--> Member management
--> Borrowing and return transactions
--> MySQL database integration
--> CRUD (Create, Read, Update, Delete) operations
+Özellikler:
+-> Kitap yönetimi (Ekleme, Güncelleme, Silme, Arama)
+-> Üye yönetimi
+-> Ödünç alma ve iade işlemleri
+-> MySQL veritabanı entegrasyonu
+-> CRUD (Oluşturma, Okuma, Güncelleme, Silme) işlemleri
 
-# Technologies Used:
+# Kullanılan Teknolojiler:
 - C#
 - .NET
 - MySQL
-- Windows Forms (if applicable)
+- Windows Forms
 
-Purpose:
-This project was developed to improve my skills in C#, database management, SQL, and desktop application development.
+Amaç:
+Bu proje; C#, veritabanı yönetimi, SQL ve masaüstü uygulama geliştirme konusundaki becerilerimi geliştirmek amacıyla hazırlanmıştır.
