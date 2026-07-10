@@ -78,6 +78,7 @@ olan tur_id alanını seçiniz.
 
 ### MySQL Server Bağlantısı:
 <img width="930" height="96" alt="image" src="https://github.com/user-attachments/assets/083b7aa2-259c-4688-bc0f-ebe6f947dd08" />
+
 Yukarıdaki görselde göründüğü gibi projenin App.Config sayfasını açıp alttaki kodu kendi sunucunuza göre yazınız.
 ```
 <connectionStrings>
